@@ -16,7 +16,7 @@ My name is Willians Faria. I'm a fullstack developer that is in love with the pr
 
 ### I want to show you something 🎁:
 
-[![Hati CLI](https://github-readme-stats.vercel.app/api/pin/?username=wllfaria&repo=Hati)](https://github.com/anuraghazra/github-readme-stats)
+[![Hati CLI](https://github-readme-stats.vercel.app/api/pin/?username=wllfaria&repo=Hati)](https://github.com/wllfaria/Hati)
 
 This project was built to make easier to structure Node - Express servers. Hati is a CLI built with Inquirer to bootstrap API's templates.
 
@@ -30,4 +30,4 @@ Feel free to contact me and mess around my profile! Thank you for beign here.
 
 ---
 
-[![Willians Faria's github stats](https://github-readme-stats.vercel.app/api?username=wllfaria)](https://github.com/anuraghazra/github-readme-stats)
+[![Willians Faria's github stats](https://github-readme-stats.vercel.app/api?username=wllfaria)](https://github.com/wllfaria)
