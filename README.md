@@ -14,12 +14,6 @@ My name is Willians Faria. I'm a fullstack developer that is in love with the pr
 - On Instagram: [wllfaria](https://instagram.com/wllfaria)
 - On Linkedin: [in/wllfaria](https://linkedin.com/in/wllfaria)
 
-### I want to show you something 🎁:
-
-[![Hati CLI](https://github-readme-stats.vercel.app/api/pin/?username=wllfaria&repo=Hati)](https://github.com/wllfaria/Hati)
-
-This project was built to make easier to structure Node - Express servers. Hati is a CLI built with Inquirer to bootstrap API's templates.
-
 #### I'm currently learning 📚:
 
 - C# for Unity game development
