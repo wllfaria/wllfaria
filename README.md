@@ -10,15 +10,12 @@ My name is Willians Faria. I'm a fullstack developer that is in love with the pr
 
 #### Find me online 🔎:
 
-- On Twitter: [@wllfaria\_](https://twitter.com/wllfaria_)
 - On Instagram: [wllfaria](https://instagram.com/wllfaria)
 - On Linkedin: [in/wllfaria](https://linkedin.com/in/wllfaria)
 
 #### I'm currently learning 📚:
 
-- C# for Unity game development
 - Pixel Art
-- Python / Django
 
 Feel free to contact me and mess around my profile! Thank you for beign here.
 
