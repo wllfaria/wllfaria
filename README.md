@@ -2,23 +2,22 @@
 
 ---
 
-![Banner with "Welcome" written in pixel art](https://github.com/wllfaria/wllfaria/blob/master/.github/assets/banner.png)
+![Banner with "Hello" written in pixel art](https://github.com/wllfaria/wllfaria/blob/master/.github/assets/banner.png)
 
-My name is Willians Faria. I'm a fullstack developer that is in love with the process of designing and developing complex websites and apps. Some of the technologies I enjoy working include React, Angular and node. Beside that. I'm a pixel artist wannabe, game development and tattoo enthusiast.
+I'm a self-taught Senior Full Stack Developer with a keen interest in the ever-changing world of web development. During my 6-year journey in the JavaScript ecosystem, I developed my skills in front-end and back-end development. While I am well versed in both fields, I am more drawn to the challenges of back-end development.
 
 ---
 
 #### Find me online 🔎:
 
-- On Instagram: [wllfaria](https://instagram.com/wllfaria)
 - On Linkedin: [in/wllfaria](https://linkedin.com/in/wllfaria)
 
 #### I'm currently learning 📚:
 
+- C++ Software Development
 - Pixel Art
+- Game/Game Engine Development
+- Always Learning about cutting-edge web technologies.
 
-Feel free to contact me and mess around my profile! Thank you for beign here.
+Feel free to contact me and look around my profile!
 
----
-
-[![Willians Faria's github stats](https://github-readme-stats.vercel.app/api?username=wllfaria)](https://github.com/wllfaria)
