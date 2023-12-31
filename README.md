@@ -37,6 +37,8 @@ about this on my blog! (you should)
 </a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Test](https://williansfaria.com/posts/test/)
+- [Test byutes](https://williansfaria.com/bytes/test/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 My setup
