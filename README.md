@@ -1,24 +1,48 @@
-### Hello, folks 👋🏼
+<div align="center">
 
----
+## Hello folks 👋, I'm [Will](https://github.com/wllfaria)
 
-![Banner with "Hello" written in pixel art with a self portrait on the side](https://github.com/wllfaria/wllfaria/blob/master/.github/assets/banner.png)
+<p>Connect with me:</p>
 
-I'm a self-taught Full Stack Engineer with a keen interest in the ever-changing world of web development. I love to build stuff.
+<a href="https://twitter.com/4wiru"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" height="30" /></a>
+<a href="https://linkedin.com/in/wllfaria"><img height="30" alt="Linkedin URL" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/wllfaria"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram URL" height="30" /></a>
 
----
+</div>
 
-#### Find me online 🔎:
+My name is Willians, and I'm fascinated with computers. I love learning and
+spend a lot of time trying to improve in many areas of programming and computer
+science. I love algorithms, data structures and building stuff. This is mostly
+why I've even started learning assembly to begin with. But you can read more
+about this on my blog! (you should)
 
-- On Linkedin: [in/wllfaria](https://linkedin.com/in/wllfaria)
-- On my blog [williansfaria.com](https://www.williansfaria.com/en)
+## Languages I use the most
 
----
+<img height="40" alt="Rust" src="https://img.shields.io/badge/-Rust-e43716?style=flat-square&logo=Rust&logoColor=white" />
+<img height="40" alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=black" />
+<img height="40" alt="C++" src="https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white" />
+<img height="40" alt="Lua" src="https://img.shields.io/badge/-Lua-00007D?style=flat-square&logo=Lua&logoColor=white" />
+<p>...and quite a few others</p>
 
-#### Things I'm interested right now 🧐:
-- Rust software development
-- Data Structures and Algorithms
-- [Advent of Code](https://github.com/wllfaria/advent-of-code)
+<br />
 
-Feel free to contact me and look around my profile!
+## 🤓 My stats
 
+<a href="https://github.com/wllfaria">
+    <img height="179" src="https://github-readme-stats.vercel.app/api?username=wllfaria&show_icons=true&theme=transparent&rank_icon=github" alt="Willians Github Stats" />
+</a>
+<a href="https://github.com/wllfaria">
+    <img height="179" src="https://github-readme-streak-stats.herokuapp.com/?user=wllfaria&show_icons=true&count_private=true&theme=transparent&hide_border=false&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" alt="Willians Github Stats" />
+</a>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 👨‍💻 My setup
+
+- **OS:** Pop-os</li>
+- **CPU:** Intel I7 9700K</li>
+- **GPU:** NVidia RTX 2060 Super</li>
+- **Browser:** Brave</li>
+- **Terminal:** Alacritty</li>
+- **Editor:** Neovim btw</li>
