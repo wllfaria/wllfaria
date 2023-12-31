@@ -25,8 +25,6 @@ about this on my blog! (you should)
 
 <p>...and quite a few others</p>
 
-<br />
-
 ## 🤓 My stats
 
 <a href="https://github.com/wllfaria">
@@ -35,6 +33,8 @@ about this on my blog! (you should)
 <a href="https://github.com/wllfaria">
     <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=wllfaria&show_icons=true&count_private=true&theme=transparent&hide_border=false&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" alt="Willians Github Stats" />
 </a>
+
+## 📝 My blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Test](https://williansfaria.com/posts/test/)
