@@ -18,10 +18,14 @@ about this on my blog! (you should)
 
 ## Languages I use the most
 
+<div align="center">
+
 <a><img height="40" alt="Rust" src="https://img.shields.io/badge/-Rust-e43716?style=flat-square&logo=Rust&logoColor=white" /></a>
 <a><img height="40" alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=black" /></a>
 <a><img height="40" alt="C++" src="https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white" /></a>
 <a><img height="40" alt="Lua" src="https://img.shields.io/badge/-Lua-00007D?style=flat-square&logo=Lua&logoColor=white" /></a>
+
+</div>
 
 <p>...and quite a few others</p>
 
