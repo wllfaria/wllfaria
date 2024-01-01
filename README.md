@@ -41,8 +41,7 @@ about this on my blog! (you should)
 ## 📝 My blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://williansfaria.com/posts/test/)
-- [Test byutes](https://williansfaria.com/bytes/test/)
+- [My journey learning assembly](https://williansfaria.com/bytes/my-journey-learning-assembly/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 My setup
