@@ -41,8 +41,8 @@ about this on my blog! (you should)
 ## 📝 My blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Valid Sudoku - Leetcode bytes 0](https://williansfaria.com/bytes/leetcode-valid-sudoku)
 - [My journey learning assembly](https://williansfaria.com/blog/my-journey-learning-assembly)
-- [Sample Title](https://williansfaria.com/bytes/sample-content)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 My setup
