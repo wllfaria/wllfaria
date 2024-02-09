@@ -47,7 +47,7 @@ about this on my blog! (you should)
 
 ## 👨‍💻 My setup
 
-- **OS:** Pop-os</li>
+- **OS:** Arch BTW</li>
 - **CPU:** Intel I7 9700K</li>
 - **GPU:** NVidia RTX 2060 Super</li>
 - **Browser:** Brave</li>
