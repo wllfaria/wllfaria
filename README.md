@@ -32,7 +32,7 @@ about this on my blog! (you should)
 ## 🤓 My stats
 
 <a href="https://github.com/wllfaria">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wllfaria&exclude_repo=killstreak&layout=compact&hide=shell" alt="Willians Github Stats" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wllfaria&exclude_repo=killstreak&layout=compact&hide=shell&theme=transparent" alt="Willians Github Stats" />
 </a>
 
 <a href="https://github.com/wllfaria">
