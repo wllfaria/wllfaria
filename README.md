@@ -32,8 +32,9 @@ about this on my blog! (you should)
 ## 🤓 My stats
 
 <a href="https://github.com/wllfaria">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=wllfaria&show_icons=true&theme=transparent&rank_icon=github" alt="Willians Github Stats" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wllfaria&exclude_repo=killstreak&layout=compact&hide=shell" alt="Willians Github Stats" />
 </a>
+
 <a href="https://github.com/wllfaria">
     <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=wllfaria&show_icons=true&count_private=true&theme=transparent&hide_border=false&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" alt="Willians Github Stats" />
 </a>
