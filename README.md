@@ -5,8 +5,6 @@
 <p>Connect with me:</p>
 
 <a href="https://twitter.com/4wiru"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" height="30" /></a>
-<a href="https://linkedin.com/in/wllfaria"><img height="30" alt="Linkedin URL" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/wllfaria"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram URL" height="30" /></a>
 
 </div>
 
@@ -48,9 +46,9 @@ about this on my blog! (you should)
 
 ## 👨‍💻 My setup
 
-- **OS:** Arch BTW</li>
+- **OS:** Arch Linux btw</li>
 - **CPU:** Intel I7 9700K</li>
 - **GPU:** NVidia RTX 2060 Super</li>
-- **Browser:** Brave</li>
+- **Browser:** Thorium</li>
 - **Terminal:** Alacritty</li>
 - **Editor:** Neovim btw</li>
