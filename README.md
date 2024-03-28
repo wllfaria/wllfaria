@@ -1,10 +1,6 @@
 <div align="center">
 
-## Hello folks 👋, I'm [Will](https://github.com/wllfaria)
-
-<p>Connect with me:</p>
-
-<a href="https://twitter.com/4wiru"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" height="30" /></a>
+## Hello folks 👋, I'm [Wiru](https://github.com/wllfaria)
 
 </div>
 
@@ -20,7 +16,8 @@ about this on my blog! (you should)
 
 <a><img height="40" alt="Rust" src="https://img.shields.io/badge/-Rust-e43716?style=flat-square&logo=Rust&logoColor=white" /></a>
 <a><img height="40" alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=black" /></a>
-<a><img height="40" alt="C++" src="https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white" /></a>
+<a><img height="40" alt="OCaml" src="https://img.shields.io/badge/-OCaml-F08301?style=flat-square&logo=ocaml&logoColor=white" /></a>
+<a><img height="40" alt="Go" src="https://img.shields.io/badge/-Go-00AED8?style=flat-square&logo=go&logoColor=white" /></a>
 <a><img height="40" alt="Lua" src="https://img.shields.io/badge/-Lua-00007D?style=flat-square&logo=Lua&logoColor=white" /></a>
 
 </div>
