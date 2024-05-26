@@ -14,5 +14,6 @@ tools that make my life and the life of as many people as I can easier
 
 #### I have a few blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Build your own window manager](https://williansfaria.com/blog/making-a-tiling-window-manager)
 - [My journey learning assembly](https://williansfaria.com/blog/my-journey-learning-assembly)
 <!-- BLOG-POST-LIST:END -->
