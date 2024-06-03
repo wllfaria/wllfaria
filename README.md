@@ -4,8 +4,8 @@ I am a software engineer from Brazil, I love building projects, and
 tools that make my life and the life of as many people as I can easier
 
 #### I love building projects:
-- X11 Window Manager: [Lucky](https://github.com/wllfaria/lucky)
-- Terminal HTTP Client: [Reqtui](https://github.com/wllfaria/reqtui)
+- Terminal API Client: [hac](https://github.com/wllfaria/hac)
+- X11 Tiling Window Manager: [Lucky](https://github.com/wllfaria/lucky)
 - Terminal Text Editor: [Glyph](https://github.com/wllfaria/glyph)
 
 #### Contact me:
